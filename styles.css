@@ -35,20 +35,15 @@ footer {
   width: 100%;
 }
 
-.code-container {
-  background-color: #f0f0f0;
-  border-radius: 5px;
+pre {
+  background-color: #45A29E;
   padding: 10px;
-  margin-bottom: 20px;
+  overflow-x: auto;
+  border-radius: 6px;
 }
-
 code {
-  color: #E74C3C;
-}
-
-.python {
-  color: #3498DB;
-}
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 14px;
 
 /* Media Query for Mobile */
 @media (max-width: 768px) {
