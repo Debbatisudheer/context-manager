@@ -51,28 +51,6 @@ code {
   .container {
     padding: 10px; /* Adjusted padding for mobile */
     margin: 20px auto; /* Adjusted margin for mobile */
-    border-radius: 5px; /* Adjusted border-radius for mobile */
+    border-radius: 0px; /* Adjusted border-radius for mobile */
   }
-  /* Footer Styles */
-footer {
-  background-color: #0BC6AB;
-  color: white;
-  text-align: center;
-  padding: 10px 0;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-pre {
-  background-color: #45A29E;
-  padding: 10px;
-  overflow-x: auto;
-  border-radius: 6px;
- 
-}
-code {
-  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-  font-size: 10px;
 }
