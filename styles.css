@@ -50,7 +50,7 @@ code {
   .container {
     padding: 10px; /* Adjusted padding for mobile */
     margin: 20px auto; /* Adjusted margin for mobile */
-    border-radius: 0px; /* Adjusted border-radius for mobile */
+    border-radius: 5px; /* Adjusted border-radius for mobile */
   }
   /* Footer Styles */
 footer {
