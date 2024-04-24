@@ -51,7 +51,7 @@ code {
   .container {
     padding: 10px; /* Adjusted padding for mobile */
     margin: 20px auto; /* Adjusted margin for mobile */
-    border-radius: 0px; /* Adjusted border-radius for mobile */
+    border-radius: 5px; /* Adjusted border-radius for mobile */
   }
   pre {
   background-color: #45A29E;
@@ -63,4 +63,6 @@ code {
   font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   font-size: 10px;
 
+}
+  
 }
